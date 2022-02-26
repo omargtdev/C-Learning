@@ -15,11 +15,12 @@ int main(){
 	 printf("This is my phrase: \"Never stop learning\"\nWell isn't mine");
 
 	 /* In itself, escape sequences are bytes in format hexadecimal.
-		* Well everything here are bits and bytes so, we can represent them
+		* Well everything here are bits and bytes so, we can represent them 
 		* like 0x0A, for a new line (\n) in this case, as escape sequences.
 		*
 		* Check https://en.wikipedia.org/wiki/Escape_sequences_in_C for more info
-		* and its table. */
+		* and its table. 
+	 */
 
 	return 0;
 }

@@ -12,6 +12,10 @@ All the information is in files as comments.
 It's easy to identify which theory you want to see or learn 
 because I've given each one a descriptive name.
 
+## Why not markdowns?
+It's simple. Because It's easier to explain and saves more
+time to me.
+
 ## A bit of theory
 If you want to test any file, you need to compile it before you run it.
 I use `gcc` (GNU Compiler Collection) for compile them.
