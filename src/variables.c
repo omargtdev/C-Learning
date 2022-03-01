@@ -45,10 +45,23 @@ int main(){
 		* %c -> Characters
 		* and much more but for now it's ok these.
 	 */
+
+	/* We can also define that our variables being constants 
+	 * A constant is a variable can't change its value, we define
+	 * it with "const" keyword
+	 */
+	 const int myConst = 25;
+
+	 // This would give an error
+	 /* myConst = 30; */
+
+	 
 	 printf("myFirstVariable: %d\n", myFirstVariable);
 	 printf("anotherVariable: %d\n", anotherVariable);
 	 printf("mySecondVariable: %c\n", mySecondVariable);
 	 printf("myFirstFloat: %f", myFirstFloat);
+
+	 printf("Constant: %d", myConst);
 
 	return 0;	
 }
